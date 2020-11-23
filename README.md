@@ -1,14 +1,14 @@
-### Hi there 👋, soy Fernando Paz
-#### Programador
+### Hola 👋, soy Fernando Paz
+#### Estudiante de Sistemas y Física / Profesor Particular
 ![Programador](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-me encanta programar y aprender cosas nuevas.
+me encanta programar y aprender tecnologias nuevas.
 
-Skills: Java / Python / JS / HTML / CSS
+Skills: Java / Python / JS / HTML / CSS / C
 
 - 🔭 Actualmente estoy cursando bases de datos y programacion 3. 
 - 🌱 Estoy aprendiendo desarrollo web por mi cuenta en [The odin project](https://www.theodinproject.com/)
-- 👯 Estoy interesado en aprender nuevas tecnologías y practicas 
+- 👯 Estoy interesado en aprender nuevas tecnologías y buenas practicas 
 - 📫 Contacto: ferpaz9292@gmail.com 
 
 
