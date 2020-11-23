@@ -1,7 +1,8 @@
-### Hola 👋, soy Fernando Paz
-#### Estudiante de Sistemas y Física / Profesor Particular
+# Fernando Paz
 
-me encanta programar y aprender tecnologias nuevas.
+Hola soy Fernando Paz estudiante de [Licenciatura en sistemas](https://www.ungs.edu.ar/carrera/licenciatura-en-sistemas) y [Licenciatura en ciencias Físicas](https://df.uba.ar/es/futuros-estudiantes/guia-para-el-estudiante#plan-de-estudios). Actualmente trabajo como profesor particular de física, matemática y programacion. 
+
+Me encanta programar y aprender tecnologias nuevas.
 
 Skills: Java / Python / JS / HTML / CSS / C
 
