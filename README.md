@@ -14,5 +14,5 @@ Skills: Java / Python / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/fernandopaz1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ferpaz//)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/fernandopaz1&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandopaz1&show_icons=true)  
 
