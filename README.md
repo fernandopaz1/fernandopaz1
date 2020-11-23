@@ -23,7 +23,7 @@ Me encanta programar y aprender tecnologias nuevas.
 
 ![Estadisticas de GitHub](https://github-readme-stats.vercel.app/api?username=fernandopaz1&show_icons=true&count_private=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metricas GitHub](https://metrics.lecoq.io/fernandopaz1)  
 
