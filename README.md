@@ -1,6 +1,5 @@
 ### Hola 👋, soy Fernando Paz
 #### Estudiante de Sistemas y Física / Profesor Particular
-![Programador](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 me encanta programar y aprender tecnologias nuevas.
 
