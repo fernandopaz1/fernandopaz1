@@ -6,11 +6,13 @@ Me encanta programar y aprender tecnologias nuevas.
 
 ### Skills: 
 - Java / Eclispse / Swing
-- Python 
+- Python / NumPy  / TensorFlow / Jupyter 
 - HTML / CSS / JavaScritp
 - C / C# / Go
+. Linux / git / Bash
 - DER / Modelo Relacional / psql.
 
+### Proximamente:
 - 🔭 Actualmente estoy cursando bases de datos y programacion 3. 
 - 🌱 Estoy aprendiendo desarrollo web por mi cuenta en [The odin project](https://www.theodinproject.com/)
 - 👯 Estoy interesado en aprender nuevas tecnologías y buenas practicas 
