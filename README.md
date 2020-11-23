@@ -6,7 +6,7 @@ Me encanta programar y aprender tecnologias nuevas.
 
 ### Skills: 
 - :hotsprings: Java / Eclispse / Swing / JUnit / GSON
-- :snake: Python / NumPy  / TensorFlow / Jupyter 
+- :snake: Python / NumPy  / TensorFlow / Jupyter Notebook
 - :earth_americas: HTML / CSS / JavaScritp
 - :computer: C / C# / Go
 - :penguin: Linux / git / Bash
