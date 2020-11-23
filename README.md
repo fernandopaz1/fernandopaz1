@@ -5,12 +5,12 @@ Hola soy Fernando Paz estudiante de [Licenciatura en sistemas](https://www.ungs.
 Me encanta programar y aprender tecnologias nuevas.
 
 ### Skills: 
-- Java / Eclispse / Swing
-- Python / NumPy  / TensorFlow / Jupyter 
-- HTML / CSS / JavaScritp
-- C / C# / Go
-. Linux / git / Bash
-- DER / Modelo Relacional / psql.
+- :hotsprings: Java / Eclispse / Swing
+- :snake: Python / NumPy  / TensorFlow / Jupyter 
+- :earth_americas: HTML / CSS / JavaScritp
+- :computer: C / C# / Go
+- :penguin: Linux / git / Bash
+- :floppy_disk: DER / Modelo Relacional / psql.
 
 ### Proximamente:
 - 🔭 Actualmente estoy cursando bases de datos y programacion 3. 
