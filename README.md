@@ -1,16 +1,16 @@
 # Fernando Paz
 
-Hola soy Fernando Paz estudiante de [Licenciatura en sistemas](https://www.ungs.edu.ar/carrera/licenciatura-en-sistemas) y [Licenciatura en ciencias Físicas](https://df.uba.ar/es/futuros-estudiantes/guia-para-el-estudiante#plan-de-estudios). Actualmente trabajo como profesor particular de física, matemática y programacion. 
+Hola soy Fernando Paz estudiante de [Licenciatura en sistemas](https://www.ungs.edu.ar/carrera/licenciatura-en-sistemas) y [Licenciatura en ciencias Físicas](https://df.uba.ar/es/futuros-estudiantes/guia-para-el-estudiante#plan-de-estudios). Actualmente trabajo como profesor particular de física, matemática y programación. 
 
 Me encanta programar y aprender tecnologias nuevas.
 
 ### Skills: 
-- :hotsprings: Java / Eclispse / Swing
+- :hotsprings: Java / Eclispse / Swing / JUnit / GSON
 - :snake: Python / NumPy  / TensorFlow / Jupyter 
 - :earth_americas: HTML / CSS / JavaScritp
 - :computer: C / C# / Go
 - :penguin: Linux / git / Bash
-- :floppy_disk: DER / Modelo Relacional / psql.
+- :floppy_disk: DER / Modelo Relacional / PostgreSQL
 
 ### Proximamente:
 - 🔭 Actualmente estoy cursando bases de datos y programacion 3. 
