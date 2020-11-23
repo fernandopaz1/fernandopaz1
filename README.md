@@ -4,7 +4,12 @@ Hola soy Fernando Paz estudiante de [Licenciatura en sistemas](https://www.ungs.
 
 Me encanta programar y aprender tecnologias nuevas.
 
-Skills: Java / Python / JS / HTML / CSS / C
+### Skills: 
+- Java / Eclispse / Swing
+- Python 
+- HTML / CSS / JavaScritp
+- C / C# / Go
+- DER / Modelo Relacional / psql.
 
 - 🔭 Actualmente estoy cursando bases de datos y programacion 3. 
 - 🌱 Estoy aprendiendo desarrollo web por mi cuenta en [The odin project](https://www.theodinproject.com/)
