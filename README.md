@@ -21,7 +21,10 @@ Me encanta programar y aprender tecnologias nuevas.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandopaz1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ferpaz/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e4/Lichess_new_logo.png' alt='lichess' height='40'>](https://lichess.org/@/fernandopaz1)  
 
-![Estadisticas de GitHub](https://github-readme-stats.vercel.app/api?username=fernandopaz1&show_icons=true&count_private=true)  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopaz1&show_icons=true&count_private=true" />
+</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
