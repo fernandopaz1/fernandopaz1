@@ -26,13 +26,11 @@ Me encanta programar y aprender tecnologias nuevas.
 </p>
 
 <p align="center">
-  <img align="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopaz1&show_icons=true&count_private=true" />
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Metricas GitHub](https://metrics.lecoq.io/fernandopaz1)  
