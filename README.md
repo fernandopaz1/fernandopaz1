@@ -10,7 +10,7 @@ Me encanta programar y aprender tecnologias nuevas.
 - :earth_americas: HTML / CSS / JavaScritp
 - :computer: C / C# / Go
 - :penguin: Linux / git / Bash
-- :floppy_disk: DER / Modelo Relacional / PostgreSQL
+- :floppy_disk: DER / Modelo Relacional / PostgreSQL / JSON
 
 ### Proximamente:
 - 🔭 Actualmente estoy cursando bases de datos y programacion 3. 
