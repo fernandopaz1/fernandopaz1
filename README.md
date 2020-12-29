@@ -20,10 +20,7 @@ Me encanta programar y aprender tecnologias nuevas.
 
 
 <p align="center">
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandopaz1) 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fernandopaz111)  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ferpaz/)  
-  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e4/Lichess_new_logo.png' alt='lichess' height='40'>](https://lichess.org/@/fernandopaz1)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandopaz1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fernandopaz111) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ferpaz/) [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e4/Lichess_new_logo.png' alt='lichess' height='40'>](https://lichess.org/@/fernandopaz1)  
 </p>
 
 <p align="center">
