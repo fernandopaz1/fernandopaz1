@@ -13,7 +13,7 @@ Me encanta programar y aprender tecnologias nuevas.
 - :floppy_disk: DER / Modelo Relacional / PostgreSQL / JSON
 
 ### Proximamente:
-- 🔭 Recientemente aprové bases de datos y programacion 3. 
+- 🔭 Recientemente aprobé bases de datos y programacion 3. 
 - 🌱 Estoy aprendiendo desarrollo web por mi cuenta en [The odin project](https://www.theodinproject.com/)
 - 👯 Estoy interesado en aprender nuevas tecnologías y buenas prácticas 
 - 📫 Contacto: ferpaz9292@gmail.com 
