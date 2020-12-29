@@ -13,13 +13,18 @@ Me encanta programar y aprender tecnologias nuevas.
 - :floppy_disk: DER / Modelo Relacional / PostgreSQL / JSON
 
 ### Proximamente:
-- 🔭 Actualmente estoy cursando bases de datos y programacion 3. 
+- 🔭 Recientemente aprové bases de datos y programacion 3. 
 - 🌱 Estoy aprendiendo desarrollo web por mi cuenta en [The odin project](https://www.theodinproject.com/)
-- 👯 Estoy interesado en aprender nuevas tecnologías y buenas practicas 
+- 👯 Estoy interesado en aprender nuevas tecnologías y buenas prácticas 
 - 📫 Contacto: ferpaz9292@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandopaz1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fernandopaz111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ferpaz/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e4/Lichess_new_logo.png' alt='lichess' height='40'>](https://lichess.org/@/fernandopaz1)  
+<p align="center">
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandopaz1) 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fernandopaz111)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ferpaz/)  
+  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e4/Lichess_new_logo.png' alt='lichess' height='40'>](https://lichess.org/@/fernandopaz1)  
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopaz1&show_icons=true&count_private=true" />
