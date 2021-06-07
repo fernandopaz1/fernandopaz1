@@ -20,14 +20,8 @@ Me encanta programar y aprender tecnologias nuevas.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandopaz1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fernandopaz111) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ferpaz/)
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopaz1&show_icons=true&count_private=true" />
-</p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://metrics.lecoq.io/fernandopaz1" />
 </p>
