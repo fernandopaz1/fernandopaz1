@@ -23,5 +23,5 @@ Me encanta programar y aprender tecnologias nuevas.
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact&langs_count=10&custom_title=Lenguajes%20mas%20usados" />
 </p>
