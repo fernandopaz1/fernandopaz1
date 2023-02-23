@@ -10,11 +10,11 @@ I love programming and learning new technologies.
 
 </div>
 
-### Proximamente:
+### In progress:
 
 -   🔭 I am currently working on my thesis in physics.
--   🌱 Sigo aprendiendo desarrollo web por mi cuenta.
--   👯 I'm still learning web development on my own.
+-   🌱 I'm still learning web development skills on my own.
+-   👯 I am interested in learning new technologies and good practices.
 -   📫 Contact: ferpaz9292@gmail.com
 
 <div align="center">
