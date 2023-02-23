@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Fernando%20Paz&fontSize=90)
-Hola soy Fernando Paz estudiante de [Licenciatura en sistemas](https://www.ungs.edu.ar/carrera/licenciatura-en-sistemas) y [Licenciatura en ciencias Físicas](https://df.uba.ar/es/futuros-estudiantes/guia-para-el-estudiante#plan-de-estudios). Actualmente trabajo como developer en Epidata.
+Hi, I'm Fernando Paz, a student of  [Bachelor's Degree in Computer Science](https://www.ungs.edu.ar/carrera/licenciatura-en-sistemas) and [Bachelor's Degree in Physics](https://df.uba.ar/es/futuros-estudiantes/guia-para-el-estudiante#plan-de-estudios). I currently work as a developer at Epidata.
 
-Me encanta programar y aprender tecnologias nuevas.
+I love programming and learning new technologies.
 
 ### Skills:
 
@@ -12,10 +12,10 @@ Me encanta programar y aprender tecnologias nuevas.
 
 ### Proximamente:
 
--   🔭 Actualmente estoy cursando la tesis de licenciatura en física.
+-   🔭 I am currently working on my thesis in physics.
 -   🌱 Sigo aprendiendo desarrollo web por mi cuenta.
--   👯 Estoy interesado en aprender nuevas tecnologías y buenas prácticas
--   📫 Contacto: ferpaz9292@gmail.com
+-   👯 I'm still learning web development on my own.
+-   📫 Contact: ferpaz9292@gmail.com
 
 <div align="center">
 <a href='https://github.com/fernandopaz1'><img src="https://img.icons8.com/plasticine/55/000000/github.png"/></a>
