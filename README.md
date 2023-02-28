@@ -26,7 +26,7 @@ I love programming and learning new technologies.
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact&langs_count=10&custom_title=Lenguajes%20mas%20usados&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopaz1&layout=compact&langs_count=10&theme=prussian" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
